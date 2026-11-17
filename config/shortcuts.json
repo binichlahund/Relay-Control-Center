@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Brave",
+    "category": "Browser",
+    "target": "%ProgramFiles%\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+    "icon": "brave",
+    "color": "#ff815c"
+  },
+  {
+    "name": "ChatGPT",
+    "category": "Assistant",
+    "target": "https://chatgpt.com",
+    "icon": "chat",
+    "color": "#61d5b3"
+  },
+  {
+    "name": "Discord",
+    "category": "Communication",
+    "target": "discord://",
+    "icon": "discord",
+    "color": "#9094ff"
+  },
+  {
+    "name": "Steam",
+    "category": "Games",
+    "target": "steam://open/main",
+    "icon": "steam",
+    "color": "#70b3ff"
+  },
+  {
+    "name": "Battle.net",
+    "category": "Games",
+    "target": "%ProgramFiles(x86)%\\Battle.net\\Battle.net Launcher.exe",
+    "icon": "game",
+    "color": "#62ceff"
+  },
+  {
+    "name": "Calculator",
+    "category": "Utility",
+    "target": "calc.exe",
+    "icon": "calc",
+    "color": "#f1bf73"
+  }
+]
